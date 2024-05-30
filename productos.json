@@ -1,0 +1,19 @@
+[
+    {"id": 1, "name": "Caramelo Misky", "imgsrc": "caramelo-misky", "precio": 3500, "cant": "800g"},
+    {"id": 2, "name": "Caramelo Arcor", "imgsrc": "caramelo-arcor", "precio": 4000, "cant": "800g"},
+    {"id": 3, "name": "Chupetin Arcor", "imgsrc": "chupetin-arcor", "precio": 2500, "cant": "100ud."},
+    {"id": 4, "name": "Chupetin Picodulce", "imgsrc": "chupetin-picodulce", "precio": 2000, "cant": "24ud."},
+    {"id": 5, "name": "Chicle Topline", "imgsrc": "chicle-topline-seven", "precio": 500, "cant": "Unidad"},
+    {"id": 6, "name": "Chicle Beldent", "imgsrc": "chicle-beldent", "precio": 700, "cant": "Unidad"},
+    {"id": 7, "name": "Galleta Oreo", "imgsrc": "galleta-oreo", "precio": 3600, "cant": "350g"},
+    {"id": 8, "name": "Galleta Pepito", "imgsrc": "galleta-pepito", "precio": 3000, "cant": "330g"},
+    {"id": 9, "name": "Chocolate Block", "imgsrc": "chocolate-block", "precio": 750, "cant": "70g"},
+    {"id": 10, "name": "Chocolate Milka", "imgsrc": "chocolate-milka", "precio": 950, "cant": "70g"},
+    {"id": 11, "name": "Alfajor Milka", "imgsrc": "alfajor-milka", "precio": 850, "cant": "Unidad"},
+    {"id": 12, "name": "Alfajor Bonobon", "imgsrc": "alfajor-bonobon", "precio": 850, "cant": "Unidad"},
+    {"id": 13, "name": "Alfajor Aguila", "imgsrc": "alfajor-aguila", "precio": 850, "cant": "Unidad"},
+    {"id": 14, "name": "Gomita Misky", "imgsrc": "gomita-misky", "precio": 4500, "cant": "1kg"},
+    {"id": 15, "name": "Gomita Mogul", "imgsrc": "gomita-mogul", "precio": 5000, "cant": "1kg"},
+    {"id": 16, "name": "Turron Misky", "imgsrc": "turron-misky", "precio": 1500, "cant": "3ud."},
+    {"id": 17, "name": "Gongys", "imgsrc": "malvavisco-gongys", "precio": 1750, "cant": "1ud."}
+]
