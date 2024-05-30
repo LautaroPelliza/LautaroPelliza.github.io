@@ -69,7 +69,7 @@ function renderizarCatalogo(){
         const {id, name, imgsrc, precio,cant} = productos[i];
         catalogoContainer.innerHTML += `
         <div class="card" >
-            <img src="img/productos/${imgsrc}.jpg" class="card-img-top" alt="...">
+            <img src="./img/productos/${imgsrc}.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">${name}</h5>
                 <p class="card-text">$${precio}</p>
@@ -91,14 +91,14 @@ function renderizarCarrito(){
         const {id, name, imgsrc,precio,cantidad} = carrito[i];
         carritoContainer.innerHTML += `
         <div class="carrito-item" >
-            <img src="img/productos/${imgsrc}.jpg" class="cart-img-top" alt="...">
+            <img src="./img/productos/${imgsrc}.jpg" class="cart-img-top" alt="...">
             <div class="item-body">
                 <h5 class="item-title">${name}</h5>
                 <p class="item-text">$${precio*cantidad}</p>
                 <div class="item-cant">
-                    <button class="btn-restar" id='${id}' onclick="restarDelCarrito(${id})"><img src="img/iconos/minus.png" class="img-minus"></button>
+                    <button class="btn-restar" id='${id}' onclick="restarDelCarrito(${id})"><img src="./img/iconos/Minus.png" class="img-minus"></button>
                     <p class="item-text">${cantidad}</p>
-                    <button class="btn-sumar" id='${id}' onclick="sumarAlCarrito(${id})"><img src="img/iconos/plus.png" class="img-plus"></button>
+                    <button class="btn-sumar" id='${id}' onclick="sumarAlCarrito(${id})"><img src="./img/iconos/Plus.png" class="img-plus"></button>
                 </div>
             </div>
         </div>
